@@ -1,0 +1,3 @@
+img[src*="lionden.jpg"] {
+  content: url("https://i.imgur.com/guxsdHd.jpeg") !important;
+}
